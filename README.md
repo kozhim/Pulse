@@ -1,2 +1,1 @@
-# Pulse
 Final project
